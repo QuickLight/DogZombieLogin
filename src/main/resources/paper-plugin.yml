@@ -1,0 +1,4 @@
+name: DogZombieLogin
+version: '${project.version}'
+main: icu.dogcraft.dogzombielogin.DogZombieLogin
+api-version: '1.20'
